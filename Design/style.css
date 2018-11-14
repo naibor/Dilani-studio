@@ -1,0 +1,139 @@
+body{
+    min-width: 1921px;
+    overflow: auto;
+}
+header{
+    background-image:url(assets/backgrounds/h_img.jpg);
+    height: 1050px;
+    width: 100%;
+}
+
+div.info{
+    padding-top: 23px;
+    padding-right: 54x;
+}
+h1.dilani{
+    font-size: 83px;
+    padding-top:282px;
+    padding-right: 59px;
+    text-align: center;
+    color: white;
+}
+p.dilani_info{
+    color: white;
+    padding-top: 40px;
+    font-size: 22px;
+}
+
+div.m_icon{
+    padding-top:200px;
+}
+
+section{
+    height:400px;
+}
+
+section.about{
+    background-color: azure;
+    height:658px;
+    padding-top: 177px
+}
+div.row.about_rows{
+    margin-top: 30px;
+}
+
+p.about{
+    text-align: center;
+}
+section.services{
+    background-image: url(assets/backgrounds/s_image.jpg);
+    height: 488px;
+    /* padding-top: 58px; */
+}
+h1.services{
+    padding-top: 22px;
+}
+div.service_text{
+    color: white;
+    text-align: center;
+    padding-top: 58px;
+}
+
+
+
+section.we_do{
+    background-color:aliceblue;
+    height:1790px;}
+h2.we_do{
+    text-align: center;
+
+}
+p.we_do{
+    text-align: center;
+    font-size: 15px;
+}
+
+div.we_do{
+    padding-top: 150px;
+}
+div.we_do_design{
+    margin-right: 190px;
+    margin-top: 75px;
+    margin-bottom: 80px;
+}
+
+
+
+div.demo_images{
+    height:320px;
+    width: 50px;
+}
+
+section.contact{
+    background-image: url(assets/backgrounds/c_image.jpg);
+    height: 683px;
+}
+div.us{
+    padding-top: 30px;
+    color: white;
+}
+div.name_email{
+    margin-top: 50px;
+}
+input.email_name{
+    background-color: rgba(0,0,0,.075);
+    border-width: 4px;
+    border-radius: 0px;
+    border-color: white;
+}
+
+input.email_name::placeholder{
+    color: white;
+}
+input.name_email::placeholder{
+    color: white;
+}
+textarea.message::placeholder{
+    color: white;
+}
+
+textarea.message{
+    height:300px! important;
+    background-color: rgba(0,0,0,.075);
+    margin-top: 30px;
+    border-width: 4px;
+    border-radius: 0px;
+    border-color: white;
+}
+footer{
+    height: 341px;
+    color: gainsboro;
+}
+div.social{
+    padding-top: 60px;
+}
+p.rights{
+    padding-top: 138px;
+    color: black;
+    text-align: center;
+    }
